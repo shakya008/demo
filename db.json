@@ -1,8 +1,8 @@
 {
   "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+    { "id": 1, "title": "Post 1", colors: [1,2,3,4] },
+    { "id": 2, "title": "Post 2", colors: [6,8,3,4] },
+    { "id": 3, "title": "Post 3", colors: [1,6,8,3,4] }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
